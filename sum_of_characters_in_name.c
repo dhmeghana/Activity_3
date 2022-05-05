@@ -1,4 +1,14 @@
-#include <stdio.h>
+/**
+ * @file sum_of_characters_in_name.c
+ * @author Meghana DH
+ * @brief 
+ * @version 0.1
+ * @date 2022-05-05
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+
 #include <string.h>
 #include <stdlib.h>
 
